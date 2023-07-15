@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+
+* {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-family: "Poppins", sans-serif;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.container {
+	display: flex;
+	margin: 0 auto;
+	flex-direction: column;
+}
+
+.container img {
+	min-width: 100vw;
+}
+
+section {
+	display: flex;
+	flex-direction: column;
+	background: #00b4db;
+	background: -webkit-linear-gradient(to right, #0083b0, #00b4db);
+	background: linear-gradient(to right, #0083b0, #00b4db);
+	padding: 10px;
+	justify-content: center;
+	align-items: center;
+}
+
+ul {
+	display: flex;
+	margin-bottom: 20px;
+}
+
+.icons-area {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 3%;
+}
+
+.icon {
+	max-width: 50px;
+	max-height: 50px;
+	fill: currentColor;
+	color: white;
+}
+
+p {
+	font-size: 20px;
+	color: white;
+}
+
+footer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: black;
+	color: white;
+	min-height: 50px;
+}
+
+h2 {
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.heart {
+	max-width: 13px;
+	max-height: 13px;
+	fill: currentColor;
+	color: red;
+}
+
+.icon-phone {
+	margin-right: 5px;
+	max-width: 18px;
+	max-height: 18px;
+}
