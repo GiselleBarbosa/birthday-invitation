@@ -1,3 +1,3 @@
-# birthday-invitation
+## birthday-invitation
 
-[Deploy](https://gisellebarbosa.github.io/birthday-invitation/)
+📌 [Deploy project](https://birthday-invitation-anthony.vercel.app/)
